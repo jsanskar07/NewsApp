@@ -1,1 +1,1 @@
-# TestGit
+# NewsApp
